@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/profile_banners/1488775003453952000/1668225594/1080x360)]
+![logo](https://pbs.twimg.com/profile_banners/1488775003453952000/1668225594/1080x360)
 <h1 align="center">Hi 👋, I'm MAJJI . BHAVANI SANKAR</h1>
 <h3 align="center">FULL STACK WEB DEVELOPER AND DEVOPS ENGINEER .</h3>
 
