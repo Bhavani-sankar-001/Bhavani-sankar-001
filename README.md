@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAFRsrDdpBg/m2RQl7p3APXchoDX5HH9LQ/edit?utm_content=DAFRsrDdpBg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm MAJJI . BHAVANI SANKAR</h1>
 <h3 align="center">FULL STACK WEB DEVELOPER AND DEVOPS ENGINEER .</h3>
 
