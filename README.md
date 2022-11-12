@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.canva.com/design/DAFRsrDdpBg/m2RQl7p3APXchoDX5HH9LQ/edit?utm_content=DAFRsrDdpBg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFRsrDdpBg/-Xr5t9S5BLOf8PPp8rO_hQ/view?utm_content=DAFRsrDdpBg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))]
+[![MasterHead]("C:\Users\ESWARA RAO\OneDrive\Desktop\full stack web development.png")]
 <h1 align="center">Hi 👋, I'm MAJJI . BHAVANI SANKAR</h1>
 <h3 align="center">FULL STACK WEB DEVELOPER AND DEVOPS ENGINEER .</h3>
 
